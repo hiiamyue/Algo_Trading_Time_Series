@@ -9,11 +9,11 @@ Implements and evaluates three algorithmic trading strategies on the SPDR Portfo
 
 Strategies
 
-Trend Following: Uses moving averages to generate long/short signals.
+#Trend Following: Uses moving averages to generate long/short signals.
 
-Mean Reversion: Trades on short-term deviations assuming reversion to the mean.
+#Mean Reversion: Trades on short-term deviations assuming reversion to the mean.
 
-Autoregressive (AR) Model: Predicts next-day prices and trades when moves exceed a threshold.
+#Autoregressive (AR) Model: Predicts next-day prices and trades when moves exceed a threshold.
 
 Key Points
 

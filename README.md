@@ -34,8 +34,3 @@ Analyzes SPY and SPTL to explore trends, relationships, and statistical properti
 - **Moving averages and log returns**  
 - **Correlation** between SPY and SPTL  
 - **Gaussianity, stationarity, and cointegration tests**
-
-**Findings**  
-- SPY shows higher volatility and non-stationarity.  
-- SPTL exhibits mean-reverting behavior.  
-- Correlation and cointegration suggest potential for pairs trading and risk-adjusted portfolio strategies.
